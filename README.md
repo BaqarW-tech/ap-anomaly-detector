@@ -90,7 +90,7 @@ Features include:
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/ap-anomaly-detector.git
+git clone https://github.com/BaqarW-tech/ap-anomaly-detector.git
 cd ap-anomaly-detector
 
 2. Install dependencies
