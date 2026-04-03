@@ -5,6 +5,9 @@ This project simulates financial transaction data, engineers fraud-risk features
 
 The system is designed as a portfolio project demonstrating data analytics, machine learning, and financial risk analysis.
 
+🕵️ Live Demo
+
+[Live Demo](https://ap-anomaly-detector-csqvanpt3dykkcw29hzc43.streamlit.app/)
 
 📊 Project Overview
 
